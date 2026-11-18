@@ -2,7 +2,7 @@
 
 Fullstack developer · computer science, master's studies
 
-[Portfolio](https://jakubkazimiruk46.github.io/en/) · [CV](https://jakubkazimiruk46.github.io/en/cv/) · [LinkedIn](https://www.linkedin.com/in/jakub-k-0297a423a/) · [Email](mailto:jakubkazimiruk@gmail.com)
+[Portfolio]() · [CV]() · [LinkedIn](https://www.linkedin.com/in/jakub-k-0297a423a/) · [Email](mailto:jakubkazimiruk@gmail.com)
 
 ```ts
 const jakub = {
