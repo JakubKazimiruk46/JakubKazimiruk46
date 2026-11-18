@@ -24,17 +24,6 @@ const stack = {
 };
 ```
 
-```text
-// year in commits · 2025-11-08 → 2026-11-08 · 669 commits
-StandTool         ████████████████████  136
-Vertical video    ███████████████████░  131
-ContractTool      █████████████████░░░  119
-Other (5)         █████████████████░░░  114
-Timetabling       █████████████░░░░░░░   87
-Barista Companion ██████░░░░░░░░░░░░░░   42
-Company data, MCP ██████░░░░░░░░░░░░░░   40
+<img src="languages.svg" alt="Most used languages: Python 52%, TypeScript 26%, GDScript 8%, JavaScript 5%, C# 3%, other 6%" width="495">
 
-// gitlab: 251 merge requests · 130 code reviews
-```
-
-Pinned repositories are below. The rest of the work is on the portfolio site.
+Pinned repositories are above. The rest of the work is on the portfolio site.
