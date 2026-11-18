@@ -37,4 +37,4 @@ Company data, MCP ██████░░░░░░░░░░░░░░  
 // gitlab: 251 merge requests · 130 code reviews
 ```
 
-Pinned repositories are above. The rest of the work is on the portfolio site.
+Pinned repositories are below. The rest of the work is on the portfolio site.
