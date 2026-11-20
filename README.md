@@ -25,5 +25,3 @@ const stack = {
 ```
 
 <img src="languages.svg" alt="Most used languages: Python 52%, TypeScript 26%, GDScript 8%, JavaScript 5%, C# 3%, other 6%" width="495">
-
-Pinned repositories are above. The rest of the work is on the portfolio site.
